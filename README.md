@@ -1,2 +1,2 @@
-# exercise
-A little exercise
+# exercice
+A little exercice
